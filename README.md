@@ -59,7 +59,6 @@ Está sendo utilizado o SDK do Mercado Pago para PHP, na versão 2.5.3, que abst
 - Evoluções e correções no Frontend
     - Separação dos arquivos js/css/html 
         - Acabei fazendo junto por conta do tempo e de algumas dificuldades, mas o correto seria separar os arquivos por finalidade.
-    - Remover a chave do JS - Tive dificuldades para puxar as chaves do .env pelo frontend, então deixei "fixado" para homologar, porém isso é uma falha de segurança e deve ser corrigida.
     - Melhorar usabilidade, responsividade e design.
 - Evoluções na Estrutura:
     - Criação de interfaces (ou contracts) para isolamento dos repositories/serviços
